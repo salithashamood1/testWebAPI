@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CemPSoFekS8CWpl2QNpPZlMvAQ1en1zj1AyioKO3Fx4=",
+  "Source": "testLambdaApi",
+  "BasePath": "_content/testLambdaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

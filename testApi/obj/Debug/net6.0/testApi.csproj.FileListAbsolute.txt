@@ -47,3 +47,7 @@ D:\C#\Test\testApi\testApi\testApi\bin\Debug\net6.0\runtimes\win\native\snappy64
 D:\C#\Test\testApi\testApi\testApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
 D:\C#\Test\testApi\testApi\testApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
 D:\C#\Test\testApi\testApi\testApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\C#\Test\testApi\testApi\testApi\bin\Debug\net6.0\testApi.models.dll
+D:\C#\Test\testApi\testApi\testApi\bin\Debug\net6.0\testApi.Services.dll
+D:\C#\Test\testApi\testApi\testApi\bin\Debug\net6.0\testApi.Services.pdb
+D:\C#\Test\testApi\testApi\testApi\bin\Debug\net6.0\testApi.models.pdb

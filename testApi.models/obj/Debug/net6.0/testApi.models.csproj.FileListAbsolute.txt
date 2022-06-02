@@ -1,0 +1,12 @@
+D:\C#\Test\testApi\testApi\testApi.models\bin\Debug\net6.0\testApi.models.deps.json
+D:\C#\Test\testApi\testApi\testApi.models\bin\Debug\net6.0\testApi.models.dll
+D:\C#\Test\testApi\testApi\testApi.models\bin\Debug\net6.0\testApi.models.pdb
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\testApi.models.csproj.AssemblyReference.cache
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\testApi.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\testApi.models.AssemblyInfoInputs.cache
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\testApi.models.AssemblyInfo.cs
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\testApi.models.csproj.CoreCompileInputs.cache
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\testApi.models.dll
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\refint\testApi.models.dll
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\testApi.models.pdb
+D:\C#\Test\testApi\testApi\testApi.models\obj\Debug\net6.0\ref\testApi.models.dll

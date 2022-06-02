@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Tools": "6.0.5",
           "MongoDB.Driver": "2.15.1",
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "testApi.Services": "1.0.0"
         },
         "runtime": {
           "testApi.dll": {}
@@ -324,7 +325,24 @@
           "System.Security.Principal.Windows": "5.0.0"
         }
       },
-      "System.Security.Principal.Windows/5.0.0": {}
+      "System.Security.Principal.Windows/5.0.0": {},
+      "testApi.models/1.0.0": {
+        "dependencies": {
+          "MongoDB.Driver": "2.15.1"
+        },
+        "runtime": {
+          "testApi.models.dll": {}
+        }
+      },
+      "testApi.Services/1.0.0": {
+        "dependencies": {
+          "MongoDB.Driver": "2.15.1",
+          "testApi.models": "1.0.0"
+        },
+        "runtime": {
+          "testApi.Services.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -584,6 +602,16 @@
       "sha512": "sha512-t0MGLukB5WAVU9bO3MGzvlGnyJPgUlcwerXn1kzBRjwLKixT96XV0Uza41W49gVd8zEMFu9vQEFlv0IOrytICA==",
       "path": "system.security.principal.windows/5.0.0",
       "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
+    },
+    "testApi.models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "testApi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

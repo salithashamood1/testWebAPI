@@ -1,0 +1,15 @@
+D:\C#\Test\testApi\testApi\testApi.Services\bin\Debug\net6.0\testApi.Services.deps.json
+D:\C#\Test\testApi\testApi\testApi.Services\bin\Debug\net6.0\testApi.Services.dll
+D:\C#\Test\testApi\testApi\testApi.Services\bin\Debug\net6.0\testApi.Services.pdb
+D:\C#\Test\testApi\testApi\testApi.Services\bin\Debug\net6.0\testApi.models.dll
+D:\C#\Test\testApi\testApi\testApi.Services\bin\Debug\net6.0\testApi.models.pdb
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\testApi.Services.csproj.AssemblyReference.cache
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\testApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\testApi.Services.AssemblyInfoInputs.cache
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\testApi.Services.AssemblyInfo.cs
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\testApi.Services.csproj.CoreCompileInputs.cache
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\testApi.Services.csproj.CopyComplete
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\testApi.Services.dll
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\refint\testApi.Services.dll
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\testApi.Services.pdb
+D:\C#\Test\testApi\testApi\testApi.Services\obj\Debug\net6.0\ref\testApi.Services.dll
